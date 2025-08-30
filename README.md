@@ -1,6 +1,3 @@
-# Sequential-Celcius-Converter
-C++ Homework
-
 
 ---
 
@@ -16,3 +13,9 @@ A console-based C++ application for converting values between different units.
 
 ## Tech Stack
 - C++
+
+## How to Run
+Compile and run with:
+```bash
+g++ converter.cpp -o converter
+./converter
